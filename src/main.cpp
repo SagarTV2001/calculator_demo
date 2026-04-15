@@ -4,7 +4,8 @@
 using namespace std;
 
 int main() {
-    int num1, num2;
+    int num1;
+    int num2;
     char operation;
 
     cout << "===== Simple Calculator =====" << endl;
