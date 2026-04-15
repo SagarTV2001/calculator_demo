@@ -1,4 +1,4 @@
-#include "calculator.h"
+#include "calci.h"
 
 int add(int a, int b) {
     return a + b;
